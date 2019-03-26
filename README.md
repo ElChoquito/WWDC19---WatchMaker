@@ -1,7 +1,7 @@
 ![Swift](https://img.shields.io/badge/language-Swift-orange.svg)
 
 # WatchMaker - My WWDC19 submission
-![Photo](screenshoot.png)
+![Photo](screenshot.png)
 
 # Description
 Experience in order to build a custom WWDC watch.
