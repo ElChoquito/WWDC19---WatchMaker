@@ -13,4 +13,4 @@ Experience in order to build a custom WWDC watch.
 
 # Author
 [@SylGllr](https://twitter.com/SylGllr).
-[Website](http://guilliersylvain.raidghost.com)
+[Website](http://sylvainguillier.com)
